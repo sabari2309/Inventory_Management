@@ -1,4 +1,4 @@
-🛒 Inventory Management System
+                                                                            🛒 Inventory Management System
 📋 About the Project
 This is a Java-based console application designed to simulate a simple inventory and order management system for an e-commerce platform (Z-Kart 🚀).
 
